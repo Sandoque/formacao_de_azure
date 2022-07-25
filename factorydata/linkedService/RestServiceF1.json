@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "RestService",
 		"typeProperties": {
-			"url": "https://api-formula-1.p.rapidapi.com/seasons",
+			"url": "https://api-formula-1.p.rapidapi.com/circuits",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
