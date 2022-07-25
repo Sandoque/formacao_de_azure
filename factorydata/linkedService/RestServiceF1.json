@@ -1,0 +1,12 @@
+{
+	"name": "RestServiceF1",
+	"properties": {
+		"annotations": [],
+		"type": "RestService",
+		"typeProperties": {
+			"url": "https://api-formula-1.p.rapidapi.com/seasons",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
